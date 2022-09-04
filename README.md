@@ -18,11 +18,10 @@
     
   <a href = "https://www.facebook.com/raphael.santos.9638" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
     
+ 
+  ![Snake animation](https://github.com/raphaelcont/raphaelcont/blob/output/github-contribution-grid-snake.svg)
+ 
  </div>
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
 
   
     
